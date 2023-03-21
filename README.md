@@ -1,2 +1,2 @@
-# This is a medicine tracking application made we flutter
+# This is a medicine tracking application made with flutter
 
